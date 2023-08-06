@@ -14,11 +14,11 @@ tensorflow 2.9.1
 
 If you use this code, please cite the paper as follows:
 
-@InProceedings{Ibrahem_2023_CVPR, \n
-    author    = {Ibrahem, Hatem and Salem, Ahmed and Kang, Hyun-Soo}, \n
-    title     = {ST-RoomNet: Learning Room Layout Estimation From Single Image Through Unsupervised Spatial Transformations}, \n
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops}, \n
-    month     = {June}, \n
-    year      = {2023}, \n
-    pages     = {3375-3383} \n
+@InProceedings{Ibrahem_2023_CVPR,<br>
+    author    = {Ibrahem, Hatem and Salem, Ahmed and Kang, Hyun-Soo},<br>
+    title     = {ST-RoomNet: Learning Room Layout Estimation From Single Image Through Unsupervised Spatial Transformations},<br>
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},<br>
+    month     = {June},<br>
+    year      = {2023},<br>
+    pages     = {3375-3383}<br>
 }
