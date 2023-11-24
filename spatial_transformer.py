@@ -209,7 +209,7 @@ class ProjectiveTransformer(object):
 
     """
 
-    def __init__(self, out_size, name='SpatialProjectiveTransformer', interp_method='nearest', **kwargs):
+    def __init__(self, out_size, name='SpatialProjectiveTransformer', interp_method='bilinear', **kwargs):   #interp_method='nearest' can be only used in inference mode
         """
         Parameters
         ----------
